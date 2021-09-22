@@ -7,3 +7,4 @@
 /.sconf_temp/
 /config.log
 *.un~
+/result
